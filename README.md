@@ -41,6 +41,12 @@ The following results are recorded in the notebook's saved outputs:
 ## Project Notebook
 The complete implementation and analysis are available in the Jupyter Notebook uploaded to this repository.
 
+## Confusion Matrix
+
+The confusion matrix below shows the Random Forest model's binary classification results on the test dataset.
+
+![Random Forest Confusion Matrix](random_forest_confusion_matrix.png)
+
 ## How to Run
 1. Clone or download this repository.
 2. Open the `.ipynb` notebook in Google Colab or Jupyter Notebook.
