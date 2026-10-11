@@ -38,6 +38,12 @@ The following results are recorded in the notebook's saved outputs:
 
 **Note:** These are recorded experimental results. Performance may vary with data preparation and evaluation methodology.
 
+## Dataset
+- **Dataset:** CICIDS2017 (cleaned CSV version)
+- **File used:** `cicids2017_cleaned.csv`
+- **Source:** Downloaded from Kaggle
+- **Task:** Binary classification (Normal vs Attack)
+
 ## Project Notebook
 The complete implementation and analysis are available in the Jupyter Notebook uploaded to this repository.
 
