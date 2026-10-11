@@ -1,6 +1,6 @@
-Model             	Accuracy    Precision (Attack)    Recall (Attack)   	F1-score (Attack)
-Random Forest	      99.81%	     99.67%	              99.20%	            99.44%
-Logistic Regression	94.15%     	 85.27%	              79.02%	            82.03%
-Linear SVM	        94.52%	     86.46%	              80.10%	            83.16%
-Decision Tree	      99.87%       99.58%	              99.66%	            99.62%
-Naive Bayes       	59.13%	     29.04%	              98.41%	            44.85%
+Model,Accuracy,Precision_Attack,Recall_Attack,F1_Attack
+Random Forest,99.81%,99.67%,99.20%,99.44%
+Logistic Regression,94.15%,85.27%,79.02%,82.03%
+Linear SVM,94.52%,86.46%,80.10%,83.16%
+Decision Tree,99.87%,99.58%,99.66%,99.62%
+Naive Bayes,59.13%,29.04%,98.41%,44.85%
